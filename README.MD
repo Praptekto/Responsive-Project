@@ -1,0 +1,2 @@
+- This project was created to improve my skill in responsive web design and vanilla JS
+- Master branch just for initialization
